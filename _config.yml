@@ -39,15 +39,6 @@ giscus:
   reaction-enabled: "1"
   theme: "light"
   crossorigin: "anonymous"
-  
-giscus_repo: "MHKarami97/video"
-giscus_repo-id: "MDEwOlJlcG9zaXRvcnkzNTA2MjIxNDc="
-giscus_category: "General"
-giscus_category-id: "DIC_kwDOFOYRw84B-Ro_"
-giscus_mapping: "pathname"
-giscus_reaction-enabled: "1"
-giscus_theme: "light"
-giscus_crossorigin: "anonymous"  
 
 # Build Settings
 markdown: kramdown
