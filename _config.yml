@@ -31,10 +31,10 @@ comments:
    provider: "giscus"
    
 giscus:
-  repo: "MHKarami97/blog"
-  repo-id: "MDEwOlJlcG9zaXRvcnkzMjE5OTM3NDM="
+  repo: "MHKarami97/video"
+  repo-id: "MDEwOlJlcG9zaXRvcnkzNTA2MjIxNDc="
   category: "General"
-  category-id: "DIC_kwDOEzE8D84B-PIL"
+  category-id: "DIC_kwDOFOYRw84B-Ro_"
   mapping: "pathname"
   reaction-enabled: "1"
   theme: "light"
