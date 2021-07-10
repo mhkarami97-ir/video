@@ -1,6 +1,5 @@
 <section class="comment-area">
   <div class="comment-wrapper">
-      {% if giscus.repo %}
     <script src="https://giscus.app/client.js"
             data-repo={{ giscus.repo }}
             data-repo-id={{ giscus.repo-id }}
@@ -12,6 +11,5 @@
             crossorigin={{ giscus.crossorigin }}
             async>
     </script>
-  {% endif %}
   </div>
 </section> <!-- End Comment Area -->
