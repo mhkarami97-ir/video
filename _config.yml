@@ -20,7 +20,25 @@ social-email: mhkarami97@gmail.com # add your Email address
 # discus-identifier: mhkarami97 # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+google_analytics: "G-DZM25ZLKRP"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-DZM25ZLKRP"
+    anonymize_ip: false # default
+    
+comments:
+   provider: "giscus"
+   
+giscus:
+  repo: "MHKarami97/blog"
+  repo-id: "MDEwOlJlcG9zaXRvcnkzMjE5OTM3NDM="
+  category: "General"
+  category-id: "DIC_kwDOEzE8D84B-PIL"
+  mapping: "pathname"
+  reaction-enabled: "1"
+  theme: "light"
+  crossorigin: "anonymous"      
 
 # Build Settings
 markdown: kramdown
