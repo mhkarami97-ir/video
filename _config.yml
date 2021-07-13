@@ -1,6 +1,6 @@
 title: فیلمخانه
 description: > # this means to ignore newlines until "baseurl:"
-  آموزش های تهیه شده
+  معرفی فیلم
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://video.mhkarami97.ir" # the base hostname & protocol for your site, e.g. http://example.com
