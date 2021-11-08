@@ -28,7 +28,7 @@ analytics:
     anonymize_ip: false # default
 
 comments:
-   provider: "giscus"
+   provider: ""
 
 giscus:
   repo: "MHKarami97/video"
