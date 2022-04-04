@@ -3,7 +3,7 @@ layout: post
 title: persian lessons
 date: 2021-10-29 18:50:00 +0000
 description: فیلم persian lessons
-img: persian_lessons.jpeg
+img: persian-lessons.jpeg
 categories: [Movie]
 tags: [movie, drama, war]
 ---
