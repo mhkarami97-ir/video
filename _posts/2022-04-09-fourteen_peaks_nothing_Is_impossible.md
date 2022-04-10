@@ -1,0 +1,22 @@
+---
+layout: post
+title: 14 Peaks Nothing Is Impossible
+date: 2022-04-09 09:00:00 +0000
+description: مستند 14 Peaks Nothing Is Impossible
+img: fourteen-peaks-nothing-is-impossible.jpg
+categories: [Documentary]
+tags: [documentary, adventure, sport]
+---
+
+## مشخصات
+
+`ژانر` : مستند ورزش  
+`کشور` : آمریکا  
+`سال تولید` : 2021  
+`مدت زمان` : 1h 41m  
+`کارگردان` : Torquil Jones
+
+## لینک ها
+
+[rottentomatoes](https://www.rottentomatoes.com/m/14_peaks_nothing_is_impossible)  
+[imdb](https://www.imdb.com/title/tt14079374/)
