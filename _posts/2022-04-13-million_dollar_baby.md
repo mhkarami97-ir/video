@@ -1,0 +1,22 @@
+---
+layout: post
+title: Million Dollar Baby
+date: 2022-04-13 09:00:00 +0000
+description: فیلم Million Dollar Baby
+img: million-dollar-baby.jpg
+categories: [Movie]
+tags: [rama, sport]
+---
+
+## مشخصات
+
+`ژانر` : درام ورزش  
+`کشور` : آمریکا  
+`سال تولید` : 2004  
+`مدت زمان` : 2h 12m  
+`کارگردان` : Clint Eastwood
+
+## لینک ها
+
+[rottentomatoes](https://www.rottentomatoes.com/m/million_dollar_baby)  
+[imdb](https://www.imdb.com/title/tt0405159/)
