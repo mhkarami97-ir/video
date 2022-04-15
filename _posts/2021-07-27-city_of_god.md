@@ -3,7 +3,7 @@ layout: post
 title: city of ood
 date: 2021-07-22 20:48:00 +0000
 description: فیلم city of god
-img: city-of-god.jpg
+img: city_of_god.jpg
 categories: [Movie]
 tags: [movie, drama, crime]
 ---
@@ -27,7 +27,7 @@ tags: [movie, drama, crime]
 `مدت زمان` : 2h 10m  
 `کارگردان` : Fernando Meirelles
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/city_of_god)  
 [imdb](https://www.imdb.com/title/tt0317248/)

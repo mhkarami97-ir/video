@@ -3,7 +3,7 @@ layout: post
 title: persian lessons
 date: 2021-10-29 18:50:00 +0000
 description: فیلم persian lessons
-img: persian-lessons.jpeg
+img: persian_lessons.jpeg
 categories: [Movie]
 tags: [movie, drama, war]
 ---
@@ -31,7 +31,7 @@ tags: [movie, drama, war]
 `مدت زمان` : 2h 07m  
 `کارگردان` : Vadim Perelman  
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/persian_lessons)  
 [imdb](https://www.imdb.com/title/tt9738784/)

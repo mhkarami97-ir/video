@@ -3,7 +3,7 @@ layout: post
 title: the revenant
 date: 2021-08-02 16:03:00 +0000
 description: فیلم از گور بازگشته
-img: the-revenant.jpg
+img: the_revenant.jpg
 categories: [Movie]
 tags: [movie, drama, action, adventure]
 ---
@@ -26,7 +26,7 @@ tags: [movie, drama, action, adventure]
 `مدت زمان` : 2h 36m  
 `کارگردان` : Alejandro G. Iñárritu
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/the_revenant_2015)  
 [imdb](https://www.imdb.com/title/tt1663202/)

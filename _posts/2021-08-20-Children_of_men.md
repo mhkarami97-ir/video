@@ -3,7 +3,7 @@ layout: post
 title: children of men
 date: 2021-08-20 11:24:00 +0000
 description: فیلم فرزندان بشر
-img: children-of-men.jpg
+img: children_of_men.jpg
 categories: [Movie]
 tags: [movie, sci-fi, adventure]
 ---
@@ -29,7 +29,7 @@ tags: [movie, sci-fi, adventure]
 `مدت زمان` : 1h 49m  
 `کارگردان` : Alfonso Cuarón  
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/children_of_men)  
 [imdb](https://www.imdb.com/title/tt0206634/)

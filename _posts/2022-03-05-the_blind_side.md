@@ -3,7 +3,7 @@ layout: post
 title: The Blind Side
 date: 2022-03-05 13:00:00 +0000
 description: فیلم The Blind Side
-img: the-blind-side.jpg
+img: the_blind_side.jpg
 categories: [Movie]
 tags: [movie, drama, biography, sport]
 ---
@@ -17,7 +17,7 @@ tags: [movie, drama, biography, sport]
 `مدت زمان` : 2h 09m  
 `کارگردان` : John Lee Hancock
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/1212694-blind_side)  
 [imdb](https://www.imdb.com/title/tt0878804/)

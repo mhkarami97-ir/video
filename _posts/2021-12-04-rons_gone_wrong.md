@@ -3,8 +3,8 @@ layout: post
 title: rons gone wrong
 date: 2021-12-04 13:30:00 +0000
 description: انیمیشن rons gone wrong
-img: rons-gone-wrong.jpg
-categories: [Movie]
+img: rons_gone_wrong.jpg
+categories: [Animation]
 tags: [animation, adventure, comedy]
 ---
 
@@ -33,7 +33,7 @@ tags: [animation, adventure, comedy]
 `مدت زمان` : 1h 45m  
 `کارگردان` : Sarah Smith  
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/rons_gone_wrong)  
 [imdb](https://www.imdb.com/title/tt7504818/)

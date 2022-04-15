@@ -3,7 +3,7 @@ layout: post
 title: joyeux noel
 date: 2022-01-06 13:30:00 +0000
 description: فیلم joyeux noel
-img: joyeux-noel.jpg
+img: joyeux_noel.jpg
 categories: [Movie]
 tags: [movie, drama, history]
 ---
@@ -41,7 +41,7 @@ tags: [movie, drama, history]
 `مدت زمان` : 1h 56m  
 `کارگردان` : Christian Carion  
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/joyeux_noel)  
 [imdb](https://www.imdb.com/title/tt0424205/)

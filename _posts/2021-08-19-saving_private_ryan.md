@@ -3,7 +3,7 @@ layout: post
 title: saving private ryan
 date: 2021-08-19 16:00:00 +0000
 description: فیلم نجات سرباز رایان
-img: saving-private-ryan.jpg
+img: saving_private_ryan.jpg
 categories: [Movie]
 tags: [movie, drama, war]
 ---
@@ -31,7 +31,7 @@ tags: [movie, drama, war]
 `مدت زمان` : 2h 49m  
 `کارگردان` : Steven Spielberg  
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/saving_private_ryan)  
 [imdb](https://www.imdb.com/title/tt0120815/)

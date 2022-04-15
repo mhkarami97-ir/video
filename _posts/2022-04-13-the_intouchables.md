@@ -3,9 +3,9 @@ layout: post
 title: The Intouchables
 date: 2022-04-13 09:00:00 +0000
 description: فیلم The Intouchables
-img: the-intouchables.jpg
+img: the_intouchables.jpg
 categories: [Movie]
-tags: [rama, sport]
+tags: [movie, drama, sport]
 ---
 
 ## مشخصات
@@ -16,7 +16,7 @@ tags: [rama, sport]
 `مدت زمان` : 2h 12m  
 `کارگردان` : Olivier Nakache
 
-## لینک ها
+## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/the_intouchables)  
 [imdb](https://www.imdb.com/title/tt1675434/)
