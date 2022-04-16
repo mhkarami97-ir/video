@@ -3,7 +3,7 @@ layout: post
 title: Turning Red
 date: 2022-03-13 09:00:00 +0000
 description: انیمیشن Turning Red
-img: turning-red.jpg
+img: turning_red.jpg
 categories: [Animation]
 tags: [animation, kids_&_family, comedy, adventure]
 ---
