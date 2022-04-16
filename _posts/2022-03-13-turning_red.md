@@ -10,7 +10,6 @@ tags: [animation, kids_&_family, comedy, adventure]
 
 ## مشخصات
 
-`ژانر` : انیمیشن، ظنز  
 `کشور` : آمریکا  
 `سال تولید` : 2022  
 `مدت زمان` : 1h 40m  
