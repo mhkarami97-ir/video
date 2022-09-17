@@ -3,7 +3,7 @@ layout: post
 title: MoneyBall
 dates: 2022-09-16
 description: MoneyBall
-img: her.jpg
+img: moneyball.jpg
 tags: [movie, drama, biography]
 categories: [Movie]
 ---
