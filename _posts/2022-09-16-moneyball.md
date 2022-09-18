@@ -8,5 +8,5 @@ tags: [movie, drama, biography]
 categories: [Movie]
 ---
 
-[imdb](https://www.imdb.com/title/tt1210166/reference/)  
+[imdb](https://www.imdb.com/title/tt1210166/)  
 [RottenTomatoes](https://www.rottentomatoes.com/m/moneyball)
