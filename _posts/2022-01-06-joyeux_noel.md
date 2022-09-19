@@ -4,8 +4,8 @@ title: joyeux noel
 date: 2022-01-06 13:30:00 +0000
 description: فیلم joyeux noel
 img: joyeux_noel.jpg
-categories: [Movie]
-tags: [movie, drama, history]
+categories: [فیلم]
+tags: [فیلم, درام, تاریخی]
 ---
 
 این فیلم داستان صلح واقعی بین سه کشور آلمان، فرانسه و انگلیس را در جنگ جهانی اول بیان می‌کند.  

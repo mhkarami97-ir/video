@@ -4,8 +4,8 @@ title: Undisputed III Redemption
 dates: 2022-04-17
 description: Undisputed III Redemption
 img: undisputed_III_redemption.jpg
-tags: [movie, drama, action, crime]
-categories: [Movie]
+tags: [فیلم, درام, اکشن, جنایی]
+categories: [فیلم]
 ---
 
 [imdb](https://www.imdb.com/title/tt1156466/)  

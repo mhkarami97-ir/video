@@ -4,8 +4,8 @@ title: saving private ryan
 date: 2021-08-19 16:00:00 +0000
 description: فیلم نجات سرباز رایان
 img: saving_private_ryan.jpg
-categories: [Movie]
-tags: [movie, drama, war]
+categories: [فیلم]
+tags: [فیلم, درام, جنگ]
 ---
 
 فیلمی بسیار واقع گرایانه در رابطه با زشتی های جنگ و زیبایی افراد حاضر در جنگ.  

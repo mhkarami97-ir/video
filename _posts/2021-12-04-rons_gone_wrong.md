@@ -4,8 +4,8 @@ title: rons gone wrong
 date: 2021-12-04 13:30:00 +0000
 description: انیمیشن rons gone wrong
 img: rons_gone_wrong.jpg
-categories: [Animation]
-tags: [animation, adventure, comedy]
+categories: [انیمیشن]
+tags: [انیمیشن, ماجراجویانه, کمدی]
 ---
 
 چه می‌شود اگر تمام افراد جامعه از یک ابزار دیجیتال مانند ربات برای کارهای خود استفاده کنند؟  

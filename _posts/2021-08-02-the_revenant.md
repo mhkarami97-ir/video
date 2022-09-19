@@ -4,8 +4,8 @@ title: the revenant
 date: 2021-08-02 16:03:00 +0000
 description: فیلم از گور بازگشته
 img: the_revenant.jpg
-categories: [Movie]
-tags: [movie, drama, action, adventure]
+categories: [فیلم]
+tags: [فیلم, درام, اکشن, ماجراجویانه]
 ---
 
 فیلمی بسیار عالی با بازیگرانی بسیار عالی تر.  

@@ -4,8 +4,8 @@ title: Recep Ivedik
 dates: 2022-04-17
 description: Recep Ivedik
 img: recep_ivedik.jpg
-tags: [movie, comedy]
-categories: [Movie]
+tags: [فیلم, کمدی]
+categories: [فیلم]
 ---
 
 [imdb](https://www.imdb.com/title/tt6439558/)  

@@ -4,8 +4,8 @@ title: Million Dollar Baby
 date: 2022-04-13 09:00:00 +0000
 description: فیلم Million Dollar Baby
 img: million_dollar_baby.jpg
-categories: [Movie]
-tags: [movie, drama, sport]
+categories: [فیلم]
+tags: [فیلم, درام, ورزشی]
 ---
 
 ## مشخصات

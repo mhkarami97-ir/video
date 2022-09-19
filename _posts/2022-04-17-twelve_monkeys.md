@@ -4,8 +4,8 @@ title: Twelve Monkeys
 dates: 2022-04-17
 description: Twelve Monkeys
 img: twelve_monkeys.jpg
-tags: [movie, mystery, thriller, sci-fi]
-categories: [Movie]
+tags: [فیلم, رازآلود, دلهره‌آور, علمی‌و‌تخیلی]
+categories: [فیلم]
 ---
 
 [imdb](https://www.imdb.com/title/tt0114746/)  
