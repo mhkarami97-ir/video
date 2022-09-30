@@ -4,8 +4,8 @@ title: 3 Idiots
 dates: 2022-09-29
 description: 3 Idiots
 img: idiots.jpg
-tags: [movie, drama, comedy]
-categories: [Movie]
+tags: [فیلم, درام, کمدی]
+categories: [فیلم]
 ---
 
 [imdb](https://www.imdb.com/title/tt1187043)  
