@@ -4,8 +4,8 @@ title: Fast And Furious
 dates: 2022-04-17
 description: Fast And Furious
 img: fast_and_furious.jpg
-tags: [movie, action, crime, thriller]
-categories: [Movie]
+tags: [فیلم, اکشن, جنایی, دلهره‌آور]
+categories: [فیلم]
 ---
 
 [imdb](https://www.imdb.com/title/tt1013752/)  

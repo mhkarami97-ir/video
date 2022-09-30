@@ -4,8 +4,8 @@ title: Me Before You
 date: 2022-04-03 09:00:00 +0000
 description: فیلم Me before you
 img: me_before_you.jpg
-categories: [Movie]
-tags: [movie, drama, romance]
+categories: [فیلم]
+tags: [فیلم, درام, رمانتیک]
 ---
 
 ## مشخصات

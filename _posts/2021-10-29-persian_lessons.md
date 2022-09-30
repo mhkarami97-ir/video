@@ -4,8 +4,8 @@ title: persian lessons
 date: 2021-10-29 18:50:00 +0000
 description: فیلم persian lessons
 img: persian_lessons.jpg
-categories: [Movie]
-tags: [movie, drama, war]
+categories: [فیلم]
+tags: [فیلم, درام, جنگ]
 ---
 
 فیلمی در ژانر درام و جنگ که اتفاقات آن در جنگ جهانی دوم اتفاق می‌افتد و بر اساس یک داستان واقعی است.  

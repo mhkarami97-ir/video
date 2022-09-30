@@ -4,8 +4,8 @@ title: Leon The Professional
 dates: 2022-04-17
 description: Leon The Professional
 img: leon_the_professional.jpg
-tags: [movie, drama, action, crime]
-categories: [Movie]
+tags: [فیلم, درام, اکشن, جنایی]
+categories: [فیلم]
 ---
 
 [imdb](https://www.imdb.com/title/tt0110413/)  

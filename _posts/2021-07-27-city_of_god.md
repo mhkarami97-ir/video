@@ -4,8 +4,8 @@ title: city of ood
 date: 2021-07-22 20:48:00 +0000
 description: فیلم city of god
 img: city_of_god.jpg
-categories: [Movie]
-tags: [movie, drama, crime]
+categories: [فیلم]
+tags: [فیلم, درام, جنایی]
 ---
 
 فیلمی درباره جرم جنایت که در زاغه نشین های برزیل داستان آن دنبال میشود.  

@@ -4,8 +4,8 @@ title: The Sea Beast
 dates: 2022-07-13
 description: The Sea Beast
 img: the_sea_beast.jpg
-tags: [animation, adventure, comedy]
-categories: [Animation]
+tags: [انیمیشن, ماجراجویانه, کمدی]
+categories: [انیمیشن]
 ---
 
 [imdb](https://www.imdb.com/title/tt9288046/)  

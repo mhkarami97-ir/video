@@ -4,8 +4,8 @@ title: Forrest Gump
 dates: 2022-04-17
 description: Forrest Gump
 img: forrest_gump.jpg
-tags: [movie, drama, romance]
-categories: [Movie]
+tags: [فیلم, درام, رمانتیک]
+categories: [فیلم]
 ---
 
 [imdb](https://www.imdb.com/title/tt0109830/)  
