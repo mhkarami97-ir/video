@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Big Short
-dates: 2022-10-09
+dates: 2022-10-07
 description: The Big Short
 img: the_big_short.jpg
 tags: [فیلم, کمدی, بیوگرافی, درام]
