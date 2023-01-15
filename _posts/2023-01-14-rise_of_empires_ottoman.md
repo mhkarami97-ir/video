@@ -1,0 +1,12 @@
+---
+layout: post
+title: Rise Of Empires Ottoman
+dates: 2023-01-14
+description: Rise Of Empires Ottoman
+img: rise_of_empires_ottoman.jpg
+tags: [مستند, درام]
+categories: [مستند]
+---
+
+[imdb](https://www.imdb.com/title/tt9244578/reference/)  
+[RottenTomatoes](https://www.rottentomatoes.com/tv/rise_of_empires_ottoman)
