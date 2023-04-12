@@ -8,5 +8,5 @@ tags: [سریال, درام, فانتزی]
 categories: [سریال]
 ---
 
-[imdb](https://www.imdb.com/title/tt4574334/reference/)  
+[imdb](https://www.imdb.com/title/tt4574334)  
 [RottenTomatoes](https://www.rottentomatoes.com/tv/stranger_things)

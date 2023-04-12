@@ -18,4 +18,4 @@ tags: [فیلم, درام, رمانتیک]
 ## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/me_before_you)  
-[imdb](https://www.imdb.com/title/tt2674426/reference/)
+[imdb](https://www.imdb.com/title/tt2674426)

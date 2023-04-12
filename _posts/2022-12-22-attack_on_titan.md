@@ -8,5 +8,5 @@ tags: [سریال, انیمیشن, اکشن]
 categories: [سریال]
 ---
 
-[imdb](https://www.imdb.com/title/tt2560140/reference/)  
+[imdb](https://www.imdb.com/title/tt2560140)  
 [RottenTomatoes](https://www.rottentomatoes.com/tv/attack_on_titan)

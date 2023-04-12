@@ -8,5 +8,5 @@ tags: [فیلم, اکشن, درام]
 categories: [فیلم]
 ---
 
-[imdb](https://www.imdb.com/title/tt1706620/reference/)  
+[imdb](https://www.imdb.com/title/tt1706620)  
 [RottenTomatoes](https://www.rottentomatoes.com/m/snowpiercer)

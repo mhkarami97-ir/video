@@ -18,4 +18,4 @@ tags: [انیمیشن, کمدی, ماجراجویانه]
 ## لینک‌ها
 
 [rottentomatoes](https://www.rottentomatoes.com/m/turning_red)  
-[imdb](https://www.imdb.com/title/tt8097030/reference/)
+[imdb](https://www.imdb.com/title/tt8097030)
