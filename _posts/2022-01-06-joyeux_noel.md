@@ -1,8 +1,6 @@
 ---
 layout: post
-title: joyeux noel
-date: 2022-01-06 13:30:00 +0000
-description: فیلم joyeux noel
+title: Joyeux Noel
 img: joyeux_noel.jpg
 categories: [فیلم]
 tags: [فیلم, درام, تاریخی]

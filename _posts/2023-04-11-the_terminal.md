@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Terminal
-dates: 2023-04-11
-description: The Terminal
+
 img: the_terminal.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]

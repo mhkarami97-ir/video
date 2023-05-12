@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Life Is Beautiful
-dates: 2022-11-04
-description: Life Is Beautiful
+
 img: life_is_beautiful.jpg
 tags: [فیلم, درام, رمانتیک, جنایی]
 categories: [فیلم]

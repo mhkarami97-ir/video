@@ -1,8 +1,6 @@
 ---
 layout: post
 title: The Shawshank Redemption
-date: 2022-04-13 00:00:00 +0000
-description: The Shawshank Redemption
 img: the_shawshank_redemption.jpg
 categories: [فیلم]
 tags: [فیلم, درام]

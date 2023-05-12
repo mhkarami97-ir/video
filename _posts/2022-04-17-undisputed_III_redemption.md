@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Undisputed III Redemption
-dates: 2022-04-17
-description: Undisputed III Redemption
+
 img: undisputed_III_redemption.jpg
 tags: [فیلم, درام, اکشن, جنایی]
 categories: [فیلم]

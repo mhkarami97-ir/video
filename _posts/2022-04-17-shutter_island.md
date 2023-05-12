@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Shutter Island
-dates: 2022-04-17
-description: Shutter Island
+
 img: shutter_island.jpg
 tags: [فیلم, رازآلود, دلهره‌آور]
 categories: [فیلم]

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Like Stars on Earth
-dates: 2022-09-17
-description: Like Stars on Earth
+
 img: like_stars_on_earth.jpg
 tags: [فیلم, خانواده, درام]
 categories: [فیلم]

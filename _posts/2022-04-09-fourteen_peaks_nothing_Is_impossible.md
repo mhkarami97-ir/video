@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 14 Peaks Nothing Is Impossible
-date: 2022-04-09 09:00:00 +0000
-description: مستند 14 Peaks Nothing Is Impossible
 img: fourteen_peaks_nothing_is_impossible.jpg
 categories: [مستند]
 tags: [مستند, ماجراجویانه, ورزشی]

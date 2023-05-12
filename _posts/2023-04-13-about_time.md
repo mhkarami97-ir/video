@@ -1,8 +1,7 @@
 ---
 layout: post
 title: About Time
-dates: 2023-04-13
-description: About Time
+
 img: about_time.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]

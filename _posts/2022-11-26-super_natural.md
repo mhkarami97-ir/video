@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Super Natural
-dates: 2022-11-26
-description: Super Natural
+
 img: super_natural.jpg
 tags: [مستند, حیات‌وحش]
 categories: [مستند]

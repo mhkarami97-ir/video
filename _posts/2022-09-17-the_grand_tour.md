@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Grand Tour 
-dates: 2022-09-17
-description: The Grand Tour 
+
 img: the_grand_tour.jpg
 tags: [مستند, ورزشی, کمدی]
 categories: [مستند]

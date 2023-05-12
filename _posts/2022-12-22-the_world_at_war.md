@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The World At War
-dates: 2022-12-22
-description: The World At War
+
 img: the_world_at_war.jpg
 tags: [سریال, تاریخی]
 categories: [سریال]

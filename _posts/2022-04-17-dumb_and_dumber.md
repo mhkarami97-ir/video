@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Dumb And Dumber
-dates: 2022-04-17
-description: Dumb And Dumber
+
 img: dumb_and_dumber.jpg
 tags: [فیلم, کمدی]
 categories: [فیلم]

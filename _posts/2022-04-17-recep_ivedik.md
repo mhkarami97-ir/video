@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Recep Ivedik
-dates: 2022-04-17
-description: Recep Ivedik
+
 img: recep_ivedik.jpg
 tags: [فیلم, کمدی]
 categories: [فیلم]

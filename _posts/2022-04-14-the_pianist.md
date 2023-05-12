@@ -1,8 +1,6 @@
 ---
 layout: post
 title: The Pianist
-date: 2022-04-13 00:00:00 +0000
-description: The Pianist
 img: the_pianist.jpg
 categories: [فیلم]
 tags: [فیلم, درام, زندگینامه, موزیکال]

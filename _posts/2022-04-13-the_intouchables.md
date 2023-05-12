@@ -1,8 +1,6 @@
 ---
 layout: post
 title: The Intouchables
-date: 2022-04-13 09:00:00 +0000
-description: فیلم The Intouchables
 img: the_intouchables.jpg
 categories: [فیلم]
 tags: [فیلم, درام, ورزشی]

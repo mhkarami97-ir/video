@@ -1,8 +1,6 @@
 ---
 layout: post
-title: city of ood
-date: 2021-07-22 20:48:00 +0000
-description: فیلم city of god
+title: City Of God
 img: city_of_god.jpg
 categories: [فیلم]
 tags: [فیلم, درام, جنایی]

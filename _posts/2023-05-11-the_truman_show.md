@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Truman Show
-dates: 2023-05-11
-description: The Truman Show
+
 img: the_truman_show.jpg
 tags: [فیلم, درام, کمدی]
 categories: [فیلم]

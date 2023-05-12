@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Beautiful Mind
-dates: 2022-04-17
-description: Beautiful Mind
+
 img: beautiful_mind.jpg
 tags: [فیلم, درام, زندگینامه]
 categories: [فیلم]

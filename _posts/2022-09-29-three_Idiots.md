@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 3 Idiots
-dates: 2022-09-29
-description: 3 Idiots
+
 img: idiots.jpg
 tags: [فیلم, درام, کمدی]
 categories: [فیلم]

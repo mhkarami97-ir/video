@@ -1,8 +1,6 @@
 ---
 layout: post
-title: children of men
-date: 2021-08-20 11:24:00 +0000
-description: فیلم فرزندان بشر
+title: Children Of Men
 img: children_of_men.jpg
 categories: [فیلم]
 tags: [فیلم, علمی‌و‌تخیلی, ماجراجویانه]

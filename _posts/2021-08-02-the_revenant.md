@@ -1,8 +1,6 @@
 ---
 layout: post
-title: the revenant
-date: 2021-08-02 16:03:00 +0000
-description: فیلم از گور بازگشته
+title: The Revenant
 img: the_revenant.jpg
 categories: [فیلم]
 tags: [فیلم, درام, اکشن, ماجراجویانه]

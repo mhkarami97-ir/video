@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Stranger Things
-dates: 2022-12-22
-description: Dark
+
 img: stranger_things.jpg
 tags: [سریال, درام, فانتزی]
 categories: [سریال]

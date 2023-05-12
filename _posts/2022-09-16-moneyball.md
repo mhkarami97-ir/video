@@ -1,8 +1,7 @@
 ---
 layout: post
 title: MoneyBall
-dates: 2022-09-16
-description: MoneyBall
+
 img: moneyball.jpg
 tags: [فیلم, درام, زندگینامه]
 categories: [فیلم]

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Twelve Monkeys
-dates: 2022-04-17
-description: Twelve Monkeys
+
 img: twelve_monkeys.jpg
 tags: [فیلم, رازآلود, دلهره‌آور, علمی‌و‌تخیلی]
 categories: [فیلم]

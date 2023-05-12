@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Children of Heaven
-dates: 2022-12-19
-description: Children of Heaven
+
 img: children_of_heaven.jpg
 tags: [فیلم, درام, ورزشی, خانواده]
 categories: [فیلم]

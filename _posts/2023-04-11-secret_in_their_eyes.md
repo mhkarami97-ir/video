@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Secret in Their Eyes
-dates: 2023-04-11
-description: Secret in Their Eyes
+
 img: secret_in_their_eyes.jpg
 tags: [فیلم, رازآلود, درام]
 categories: [فیلم]

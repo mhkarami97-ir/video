@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Sea Beast
-dates: 2022-07-13
-description: The Sea Beast
+
 img: the_sea_beast.jpg
 tags: [انیمیشن, ماجراجویانه, کمدی]
 categories: [انیمیشن]

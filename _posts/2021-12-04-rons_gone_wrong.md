@@ -1,8 +1,6 @@
 ---
 layout: post
-title: rons gone wrong
-date: 2021-12-04 13:30:00 +0000
-description: انیمیشن rons gone wrong
+title: Rons Gone Wrong
 img: rons_gone_wrong.jpg
 categories: [انیمیشن]
 tags: [انیمیشن, ماجراجویانه, کمدی]

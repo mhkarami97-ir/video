@@ -1,8 +1,6 @@
 ---
 layout: post
 title: The Limitation Game
-date: 2022-04-13 00:00:00 +0000
-description: The Limitation Game
 img: the_limitation_game.jpg
 categories: [فیلم]
 tags: [فیلم, درام, زندگینامه, دلهره‌آور]

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Rise Of Empires Ottoman
-dates: 2023-01-14
-description: Rise Of Empires Ottoman
+
 img: rise_of_empires_ottoman.jpg
 tags: [مستند, درام]
 categories: [مستند]

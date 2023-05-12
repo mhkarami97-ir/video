@@ -1,8 +1,6 @@
 ---
 layout: post
 title: The Blind Side
-date: 2022-03-05 13:00:00 +0000
-description: فیلم The Blind Side
 img: the_blind_side.jpg
 categories: [فیلم]
 tags: [فیلم, درام, زندگینامه, ورزشی]

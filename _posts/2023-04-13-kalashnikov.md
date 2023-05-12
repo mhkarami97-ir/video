@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Kalashnikov
-dates: 2023-04-13
-description: Kalashnikov
+
 img: kalashnikov.jpg
 tags: [فیلم, بیوگرافی, جنگ]
 categories: [فیلم]

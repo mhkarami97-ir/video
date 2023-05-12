@@ -1,8 +1,7 @@
 ---
 layout: post
 title: In her hands
-dates: 2022-12-09
-description: In her hands
+
 img: in_her_hands.jpg
 tags: [مستند, جنگ]
 categories: [مستند]
