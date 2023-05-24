@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Lives of Others
-
 img: the_lives_of_others.jpg
 tags: [فیلم, رازآلود, درام]
 categories: [فیلم]

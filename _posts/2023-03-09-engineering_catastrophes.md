@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Engineering Catastrophes
-
 img: engineering_catastrophes.jpg
 tags: [مستند, علمی]
 categories: [مستند]

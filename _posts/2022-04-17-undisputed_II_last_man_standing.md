@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Undisputed II Last Man Standing
-
 img: undisputed_II_last_man_standing.jpg
 tags: [فیلم, درام, اکشن, جنایی]
 categories: [فیلم]

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Life Is Beautiful
-
 img: life_is_beautiful.jpg
 tags: [فیلم, درام, رمانتیک, جنایی]
 categories: [فیلم]

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Terminal
-
 img: the_terminal.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Shutter Island
-
 img: shutter_island.jpg
 tags: [فیلم, رازآلود, دلهره‌آور]
 categories: [فیلم]

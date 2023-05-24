@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The Blind Side
-img: the_blind_side.jpg
+title: The Blind Sideimg: the_blind_side.jpg
 categories: [فیلم]
 tags: [فیلم, درام, زندگینامه, ورزشی]
 ---

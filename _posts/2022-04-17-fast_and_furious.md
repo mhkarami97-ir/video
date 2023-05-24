@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Fast And Furious
-
 img: fast_and_furious.jpg
 tags: [فیلم, اکشن, جنایی, دلهره‌آور]
 categories: [فیلم]

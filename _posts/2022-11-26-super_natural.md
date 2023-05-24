@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Super Natural
-
 img: super_natural.jpg
 tags: [مستند, حیات‌وحش]
 categories: [مستند]

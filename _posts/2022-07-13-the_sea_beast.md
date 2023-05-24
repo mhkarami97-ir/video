@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Sea Beast
-
 img: the_sea_beast.jpg
 tags: [انیمیشن, ماجراجویانه, کمدی]
 categories: [انیمیشن]

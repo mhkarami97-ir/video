@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Million Dollar Baby
-img: million_dollar_baby.jpg
+title: Million Dollar Babyimg: million_dollar_baby.jpg
 categories: [فیلم]
 tags: [فیلم, درام, ورزشی]
 ---

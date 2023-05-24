@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MoneyBall
-
 img: moneyball.jpg
 tags: [فیلم, درام, زندگینامه]
 categories: [فیلم]

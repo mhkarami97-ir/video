@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 14 Peaks Nothing Is Impossible
-img: fourteen_peaks_nothing_is_impossible.jpg
+title: 14 Peaks Nothing Is Impossibleimg: fourteen_peaks_nothing_is_impossible.jpg
 categories: [مستند]
 tags: [مستند, ماجراجویانه, ورزشی]
 ---

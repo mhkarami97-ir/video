@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SnowPiercer
-
 img: Snowpiercer.jpg
 tags: [فیلم, اکشن, درام]
 categories: [فیلم]

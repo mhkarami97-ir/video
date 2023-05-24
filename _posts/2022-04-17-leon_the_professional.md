@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Leon The Professional
-
 img: leon_the_professional.jpg
 tags: [فیلم, درام, اکشن, جنایی]
 categories: [فیلم]

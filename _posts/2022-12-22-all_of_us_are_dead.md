@@ -1,7 +1,6 @@
 ---
 layout: post
 title: All of Us Are Dead
-
 img: all_of_us_are_dead.jpg
 tags: [سریال, درام, اکشن]
 categories: [سریال]

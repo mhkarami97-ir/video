@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mere Desh Ki Dharti
-
 img: mere_desh_ki_dharti.jpg
 tags: [فیلم, درام, کمدی]
 categories: [فیلم]

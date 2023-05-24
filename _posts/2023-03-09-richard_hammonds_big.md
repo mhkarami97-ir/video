@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Richard Hammonds Big
-
 img: richard_hammonds_big.jpg
 tags: [مستند, علمی]
 categories: [مستند]

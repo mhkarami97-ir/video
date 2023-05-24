@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Children of Heaven
-
 img: children_of_heaven.jpg
 tags: [فیلم, درام, ورزشی, خانواده]
 categories: [فیلم]

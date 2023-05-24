@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Big Short
-
 img: the_big_short.jpg
 tags: [فیلم, کمدی, بیوگرافی, درام]
 categories: [فیلم]

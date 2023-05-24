@@ -1,7 +1,6 @@
 ---
 layout: post
 title: James May Our Man in Italy
-
 img: james_may_our_man_in_italy.jpg
 tags: [مستند, ماجراجویی]
 categories: [مستند]

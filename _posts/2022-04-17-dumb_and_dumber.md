@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dumb And Dumber
-
 img: dumb_and_dumber.jpg
 tags: [فیلم, کمدی]
 categories: [فیلم]
