@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Children Of Menimg: children_of_men.jpg
+title: Children Of Men
+img: children_of_men.jpg
 categories: [فیلم]
 tags: [فیلم, علمی‌و‌تخیلی, ماجراجویانه]
 ---

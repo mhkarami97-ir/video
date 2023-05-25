@@ -1,6 +1,7 @@
 ---
 layout: post
-title: City Of Godimg: city_of_god.jpg
+title: City Of God
+img: city_of_god.jpg
 categories: [فیلم]
 tags: [فیلم, درام, جنایی]
 ---

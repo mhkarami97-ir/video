@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The Revenantimg: the_revenant.jpg
+title: The Revenant
+img: the_revenant.jpg
 categories: [فیلم]
 tags: [فیلم, درام, اکشن, ماجراجویانه]
 ---
