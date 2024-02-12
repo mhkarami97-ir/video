@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Persian Lessonsimg: persian_lessons.jpg
+title: Persian Lessons
+img: persian_lessons.jpg
 categories: [فیلم]
 tags: [فیلم, درام, جنگ]
 ---

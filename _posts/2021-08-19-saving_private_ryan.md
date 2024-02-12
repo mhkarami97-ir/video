@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Saving Private Ryanimg: saving_private_ryan.jpg
+title: Saving Private Ryan
+img: saving_private_ryan.jpg
 categories: [فیلم]
 tags: [فیلم, درام, جنگ]
 ---

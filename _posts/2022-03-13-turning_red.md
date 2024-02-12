@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Turning Redimg: turning_red.jpg
+title: Turning Red
+img: turning_red.jpg
 categories: [انیمیشن]
 tags: [انیمیشن, کمدی, ماجراجویانه]
 ---
