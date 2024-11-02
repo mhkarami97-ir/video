@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Titanic
+title: The Wild Robot
 img: the_wild_robot.jpg
 tags: [انیمیشن, علمی‌و‌تخیلی]
 categories: [انیمیشن]
