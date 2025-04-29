@@ -16,11 +16,11 @@ social-email: mhkarami97@gmail.com # add your Email address
 # discus-identifier: mhkarami97 # add your discus identifier
 
 # Tracker
-google_analytics: "G-DZM25ZLKRP"
+google_analytics: "G-2KGKGYQR60"
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-DZM25ZLKRP"
+    tracking_id: "G-2KGKGYQR60"
     anonymize_ip: false # default
 
 comments:
