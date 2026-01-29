@@ -6,4 +6,3 @@ categories: [مستند]
 ---
 
 [imdb](https://www.imdb.com/title/tt30767229/reference/)  
-[RottenTomatoes]()
