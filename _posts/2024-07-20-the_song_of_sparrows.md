@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Song of Sparrows
-img: the_song_of_sparrows.jpg
+img: /assets/img/the_song_of_sparrows.jpg
 tags: [فیلم, خانواده, درام]
 categories: [فیلم]
 ---

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: My Favourite Cake
-img: my_favourite_cake.jpg
+img: /assets/img/my_favourite_cake.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]
 ---

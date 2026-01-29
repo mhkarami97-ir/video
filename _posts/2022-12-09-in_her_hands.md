@@ -1,7 +1,6 @@
 ---
-layout: post
 title: In her hands
-img: in_her_hands.jpg
+img: /assets/img/in_her_hands.jpg
 tags: [مستند, جنگ]
 categories: [مستند]
 ---

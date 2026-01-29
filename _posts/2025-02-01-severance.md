@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Severance
-img: severance.jpg
+img: /assets/img/severance.jpg
 tags: [فیلم, درام, رازآلود]
 categories: [فیلم]
 ---

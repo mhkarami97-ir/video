@@ -1,7 +1,6 @@
 ---
-layout: post
 title: What Happened to Monday
-img: what_happened_to_monday.jpg
+img: /assets/img/what_happened_to_monday.jpg
 tags: [فیلم, جنایی, اکشن]
 categories: [فیلم]
 ---

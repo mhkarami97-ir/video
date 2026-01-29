@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Alien Romulus
-img: alien_romulus.jpg
+img: /assets/img/alien_romulus.jpg
 tags: [فیلم, ترسناک, علمی‌و‌تخیلی]
 categories: [فیلم]
 ---

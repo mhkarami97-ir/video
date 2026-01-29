@@ -1,7 +1,6 @@
 ---
-layout: post
 title: About Time
-img: about_time.jpg
+img: /assets/img/about_time.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]
 ---

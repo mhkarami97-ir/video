@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Big Year
-img: the_big_year.jpg
+img: /assets/img/the_big_year.jpg
 tags: [فیلم, کمدی]
 categories: [فیلم]
 ---

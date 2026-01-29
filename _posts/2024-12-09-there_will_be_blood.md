@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Silence of the Lambs
-img: there_will_be_blood.jpg
+img: /assets/img/there_will_be_blood.jpg
 tags: [فیلم, درام]
 categories: [فیلم]
 ---

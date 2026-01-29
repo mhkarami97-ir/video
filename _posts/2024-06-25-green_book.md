@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Green Book
-img: green_book.jpg
+img: /assets/img/green_book.jpg
 tags: [فیلم, بیوگرافی, کمدی]
 categories: [فیلم]
 ---

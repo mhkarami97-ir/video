@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Chernobyl
-img: chernobyl.jpg
+img: /assets/img/chernobyl.jpg
 tags: [سریال, درام, تاریخی]
 categories: [سریال]
 ---

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Kalashnikov
-img: kalashnikov.jpg
+img: /assets/img/kalashnikov.jpg
 tags: [فیلم, بیوگرافی, جنگ]
 categories: [فیلم]
 ---

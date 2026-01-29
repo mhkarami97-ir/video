@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Train Dreams
-img: train_dreams.jpg
+img: /assets/img/train_dreams.jpg
 tags: [فیلم, درام]
 categories: [فیلم]
 ---

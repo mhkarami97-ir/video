@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Joyeux Noel
-img: joyeux_noel.jpg
+img: /assets/img/joyeux_noel.jpg
 categories: [فیلم]
 tags: [فیلم, درام, تاریخی]
 ---

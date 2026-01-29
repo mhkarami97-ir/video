@@ -1,7 +1,6 @@
 ---
-layout: post
 title: One Flew Over the Cuckoo's Nest
-img: one_flew_over_the_cuckoos_nest.jpg
+img: /assets/img/one_flew_over_the_cuckoos_nest.jpg
 tags: [فیلم, درام]
 categories: [فیلم]
 ---

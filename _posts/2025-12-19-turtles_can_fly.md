@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Turtles Can Fly
-img: turtles_can_fly.jpg
+img: /assets/img/turtles_can_fly.jpg
 tags: [فیلم, درام, جنگی]
 categories: [فیلم]
 ---

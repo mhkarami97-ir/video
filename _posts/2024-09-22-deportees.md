@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Deportees
-img: deportees.jpg
+img: /assets/img/deportees.jpg
 tags: [فیلم, اکشن, کمدی]
 categories: [فیلم]
 ---

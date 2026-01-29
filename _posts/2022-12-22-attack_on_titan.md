@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Attack on Titan
-img: attack_on_titan.jpg
+img: /assets/img/attack_on_titan.jpg
 tags: [سریال, انیمیشن, اکشن]
 categories: [سریال]
 ---

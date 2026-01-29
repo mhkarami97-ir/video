@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Fault in Our Stars
-img: the_fault_in_our_stars.jpg
+img: /assets/img/the_fault_in_our_stars.jpg
 tags: [فیلم, درام, رمانتیک]
 categories: [فیلم]
 ---

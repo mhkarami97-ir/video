@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Stan And Ollie
-img: stan_and_ollie.jpg
+img: /assets/img/stan_and_ollie.jpg
 tags: [فیلم, درام, کمدی, زندگینامه]
 categories: [فیلم]
 ---

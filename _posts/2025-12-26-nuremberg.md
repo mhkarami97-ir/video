@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Nuremberg
-img: nuremberg.jpg
+img: /assets/img/nuremberg.jpg
 tags: [فیلم, درام, بیوگرافی, تاریخی]
 categories: [فیلم]
 ---

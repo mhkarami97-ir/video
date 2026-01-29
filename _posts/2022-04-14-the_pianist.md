@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Pianist
-img: the_pianist.jpg
+img: /assets/img/the_pianist.jpg
 categories: [فیلم]
 tags: [فیلم, درام, زندگینامه, موزیکال]
 ---

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Brain with David Eagleman 
-img: the_brain_with_david_eagleman.jpg
+img: /assets/img/the_brain_with_david_eagleman.jpg
 tags: [مستند, علمی, زیست]
 categories: [مستند]
 ---

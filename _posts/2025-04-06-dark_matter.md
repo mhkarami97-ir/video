@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Dark Matter 
-img: dark_matter.jpg
+img: /assets/img/dark_matter.jpg
 tags: [سریال, درام, علمی‌تخیلی]
 categories: [سریال]
 ---

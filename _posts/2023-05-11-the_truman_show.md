@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Truman Show
-img: the_truman_show.jpg
+img: /assets/img/the_truman_show.jpg
 tags: [فیلم, درام, کمدی]
 categories: [فیلم]
 ---

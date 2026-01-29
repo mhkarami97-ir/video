@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Mad Max Fury Road
-img: mad_max_fury_road.jpg
+img: /assets/img/mad_max_fury_road.jpg
 tags: [فیلم, اکشن, ماجراجویانه, علمی‌و‌تخیلی]
 categories: [فیلم]
 ---

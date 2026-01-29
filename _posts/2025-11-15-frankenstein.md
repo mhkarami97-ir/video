@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Frankenstein
-img: frankenstein.jpg
+img: /assets/img/frankenstein.jpg
 tags: [فیلم, ترسناک, درام]
 categories: [فیلم]
 ---

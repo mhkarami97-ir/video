@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Passengers
-img: passengers.jpg
+img: /assets/img/passengers.jpg
 tags: [فیلم, رمانتیک, درام]
 categories: [فیلم]
 ---

@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Schindlers List
-img: schindlers_list.jpg
+img: /assets/img/schindlers_list.jpg
 tags: [فیلم, درام, زندگینامه, تاریخی]
 categories: [فیلم]
 ---

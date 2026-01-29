@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Moon Knight
-img: moon_knight.jpg
+img: /assets/img/moon_knight.jpg
 tags: [سریال, اکشن, فانتزی]
 categories: [سریال]
 ---

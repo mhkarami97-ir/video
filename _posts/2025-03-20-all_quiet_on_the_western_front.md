@@ -1,7 +1,6 @@
 ---
-layout: post
 title: All Quiet on the Western Front
-img: all_quiet_on_the_western_front.jpg
+img: /assets/img/all_quiet_on_the_western_front.jpg
 tags: [فیلم, درام, تاریخی]
 categories: [فیلم]
 ---

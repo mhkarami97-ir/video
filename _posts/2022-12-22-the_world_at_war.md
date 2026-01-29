@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The World At War
-img: the_world_at_war.jpg
+img: /assets/img/the_world_at_war.jpg
 tags: [سریال, تاریخی]
 categories: [سریال]
 ---

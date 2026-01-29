@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Twelve Monkeys
-img: twelve_monkeys.jpg
+img: /assets/img/twelve_monkeys.jpg
 tags: [فیلم, رازآلود, دلهره‌آور, علمی‌و‌تخیلی]
 categories: [فیلم]
 ---

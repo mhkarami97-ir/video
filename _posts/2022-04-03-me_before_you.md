@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Me Before You
-img: me_before_you.jpg
+img: /assets/img/me_before_you.jpg
 categories: [فیلم]
 tags: [فیلم, درام, رمانتیک]
 ---

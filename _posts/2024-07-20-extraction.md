@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Extraction
-img: extraction.jpg
+img: /assets/img/extraction.jpg
 tags: [فیلم, خانواده, درام]
 categories: [فیلم]
 ---

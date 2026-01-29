@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Sehr Hayat
-img: sehr_hayat.jpg
+img: /assets/img/sehr_hayat.jpg
 tags: [مستند, طبیعت]
 categories: [مستند]
 ---

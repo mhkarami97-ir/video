@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Jack Reacher
-img: jack_reacher.jpg
+img: /assets/img/jack_reacher.jpg
 tags: [فیلم, اکشن, هیجانی]
 categories: [فیلم]
 ---

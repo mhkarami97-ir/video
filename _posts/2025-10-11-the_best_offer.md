@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Best Offer
-img: the_best_offer.jpg
+img: /assets/img/the_best_offer.jpg
 tags: [فیلم, رازآلود, درام, رمانتیک]
 categories: [فیلم]
 ---

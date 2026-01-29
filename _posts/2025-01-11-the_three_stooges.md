@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Three Stooges
-img: the_three_stooges.jpg
+img: /assets/img/the_three_stooges.jpg
 tags: [فیلم, کمدی, خانوادگی]
 categories: [فیلم]
 ---

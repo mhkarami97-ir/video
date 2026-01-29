@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Wild Robot
-img: the_wild_robot.jpg
+img: /assets/img/the_wild_robot.jpg
 tags: [انیمیشن, علمی‌و‌تخیلی]
 categories: [انیمیشن]
 ---

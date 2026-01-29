@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Follow the Rain
-img: follow_the_rain.jpg
+img: /assets/img/follow_the_rain.jpg
 tags: [مستند, طبیعت]
 categories: [مستند]
 ---

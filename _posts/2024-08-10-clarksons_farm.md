@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Clarksons Farm
-img: clarksons_farm.jpg
+img: /assets/img/clarksons_farm.jpg
 tags: [مستند, کمدی]
 categories: [مستند]
 ---

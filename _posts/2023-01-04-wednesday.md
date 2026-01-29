@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Wednesday
-img: wednesday.jpg
+img: /assets/img/wednesday.jpg
 tags: [سریال, جنایی, کمدی]
 categories: [سریال]
 ---

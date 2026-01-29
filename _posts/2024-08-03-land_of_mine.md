@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Land of Mine
-img: land_of_mine.jpg
+img: /assets/img/land_of_mine.jpg
 tags: [فیلم, درام, تاریخی]
 categories: [فیلم]
 ---

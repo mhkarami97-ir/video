@@ -1,7 +1,6 @@
 ---
-layout: post
 title: 12 Years A Slave
-img: 12_years_a_slave.jpg
+img: /assets/img/12_years_a_slave.jpg
 tags: [فیلم, بیوگرافی, درام]
 categories: [فیلم]
 ---

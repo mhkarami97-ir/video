@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Eternal Sunshine of the Spotless Mind
-img: eternal_sunshine_of_the_spotless_mind.jpg
+img: /assets/img/eternal_sunshine_of_the_spotless_mind.jpg
 tags: [فیلم, رمانتیک, درام]
 categories: [فیلم]
 ---

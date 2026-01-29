@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Intouchables
-img: the_intouchables.jpg
+img: /assets/img/the_intouchables.jpg
 categories: [فیلم]
 tags: [فیلم, درام, ورزشی]
 ---

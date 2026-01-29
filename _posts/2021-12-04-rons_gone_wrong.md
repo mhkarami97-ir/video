@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Rons Gone Wrong
-img: rons_gone_wrong.jpg
+img: /assets/img/rons_gone_wrong.jpg
 categories: [انیمیشن]
 tags: [انیمیشن, ماجراجویانه, کمدی]
 ---

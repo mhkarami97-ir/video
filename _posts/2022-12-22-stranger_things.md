@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Stranger Things
-img: stranger_things.jpg
+img: /assets/img/stranger_things.jpg
 tags: [سریال, درام, فانتزی]
 categories: [سریال]
 ---

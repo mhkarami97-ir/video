@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Limitation Game
-img: the_limitation_game.jpg
+img: /assets/img/the_limitation_game.jpg
 categories: [فیلم]
 tags: [فیلم, درام, زندگینامه, دلهره‌آور]
 ---

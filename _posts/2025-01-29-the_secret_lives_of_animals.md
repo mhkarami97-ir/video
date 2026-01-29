@@ -1,7 +1,6 @@
 ---
-layout: post
 title: The Secret Lives of Animals
-img: the_secret_lives_of_animals.jpg
+img: /assets/img/the_secret_lives_of_animals.jpg
 tags: [مستند, حیوانات]
 categories: [مستند]
 ---
