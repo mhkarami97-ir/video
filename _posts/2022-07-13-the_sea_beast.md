@@ -1,6 +1,6 @@
 ---
 title: The Sea Beast
-img: /assets/img/the_sea_beast.jpg
+image: /assets/img/the_sea_beast.jpg
 tags: [انیمیشن, ماجراجویانه, کمدی]
 categories: [انیمیشن]
 ---

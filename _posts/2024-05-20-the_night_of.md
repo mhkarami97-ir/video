@@ -1,6 +1,6 @@
 ---
 title: The Night Of
-img: /assets/img/the_night_of.jpg
+image: /assets/img/the_night_of.jpg
 tags: [سریال, جنایی, درام]
 categories: [سریال]
 ---

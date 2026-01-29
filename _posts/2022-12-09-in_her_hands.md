@@ -1,6 +1,6 @@
 ---
 title: In her hands
-img: /assets/img/in_her_hands.jpg
+image: /assets/img/in_her_hands.jpg
 tags: [مستند, جنگ]
 categories: [مستند]
 ---

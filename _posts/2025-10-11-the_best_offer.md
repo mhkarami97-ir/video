@@ -1,6 +1,6 @@
 ---
 title: The Best Offer
-img: /assets/img/the_best_offer.jpg
+image: /assets/img/the_best_offer.jpg
 tags: [فیلم, رازآلود, درام, رمانتیک]
 categories: [فیلم]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Engineering Catastrophes
-img: /assets/img/engineering_catastrophes.jpg
+image: /assets/img/engineering_catastrophes.jpg
 tags: [مستند, علمی]
 categories: [مستند]
 ---

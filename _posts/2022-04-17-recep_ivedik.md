@@ -1,6 +1,6 @@
 ---
 title: Recep Ivedik
-img: /assets/img/recep_ivedik.jpg
+image: /assets/img/recep_ivedik.jpg
 tags: [فیلم, کمدی]
 categories: [فیلم]
 ---

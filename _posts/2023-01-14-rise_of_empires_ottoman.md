@@ -1,6 +1,6 @@
 ---
 title: Rise Of Empires Ottoman
-img: /assets/img/rise_of_empires_ottoman.jpg
+image: /assets/img/rise_of_empires_ottoman.jpg
 tags: [مستند, درام]
 categories: [مستند]
 ---

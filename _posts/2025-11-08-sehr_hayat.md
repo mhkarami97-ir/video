@@ -1,6 +1,6 @@
 ---
 title: Sehr Hayat
-img: /assets/img/sehr_hayat.jpg
+image: /assets/img/sehr_hayat.jpg
 tags: [مستند, طبیعت]
 categories: [مستند]
 ---

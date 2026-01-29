@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-img: /assets/img/moon_knight.jpg
+image: /assets/img/moon_knight.jpg
 tags: [سریال, اکشن, فانتزی]
 categories: [سریال]
 ---

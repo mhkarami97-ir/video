@@ -1,6 +1,6 @@
 ---
 title: Stranger Things
-img: /assets/img/stranger_things.jpg
+image: /assets/img/stranger_things.jpg
 tags: [سریال, درام, فانتزی]
 categories: [سریال]
 ---

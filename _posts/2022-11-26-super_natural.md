@@ -1,6 +1,6 @@
 ---
 title: Super Natural
-img: /assets/img/super_natural.jpg
+image: /assets/img/super_natural.jpg
 tags: [مستند, حیات‌وحش]
 categories: [مستند]
 ---

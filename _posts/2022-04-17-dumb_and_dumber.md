@@ -1,6 +1,6 @@
 ---
 title: Dumb And Dumber
-img: /assets/img/dumb_and_dumber.jpg
+image: /assets/img/dumb_and_dumber.jpg
 tags: [فیلم, کمدی]
 categories: [فیلم]
 ---

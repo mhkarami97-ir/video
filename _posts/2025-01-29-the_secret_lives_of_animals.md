@@ -1,6 +1,6 @@
 ---
 title: The Secret Lives of Animals
-img: /assets/img/the_secret_lives_of_animals.jpg
+image: /assets/img/the_secret_lives_of_animals.jpg
 tags: [مستند, حیوانات]
 categories: [مستند]
 ---

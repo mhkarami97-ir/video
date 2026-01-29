@@ -1,6 +1,6 @@
 ---
 title: Gangs of New York
-img: /assets/img/gangs_of_new_york.jpg
+image: /assets/img/gangs_of_new_york.jpg
 tags: [فیلم, جنایی, درام]
 categories: [فیلم]
 ---

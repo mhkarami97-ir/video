@@ -1,6 +1,6 @@
 ---
 title: Children of Heaven
-img: /assets/img/children_of_heaven.jpg
+image: /assets/img/children_of_heaven.jpg
 tags: [فیلم, درام, ورزشی, خانواده]
 categories: [فیلم]
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Big Year
-img: /assets/img/the_big_year.jpg
+image: /assets/img/the_big_year.jpg
 tags: [فیلم, کمدی]
 categories: [فیلم]
 ---

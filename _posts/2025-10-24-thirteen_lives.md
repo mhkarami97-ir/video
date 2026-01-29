@@ -1,6 +1,6 @@
 ---
 title: Thirteen Lives
-img: /assets/img/thirteen_lives.jpg
+image: /assets/img/thirteen_lives.jpg
 tags: [فیلم, هیجانی, درام, بیوگرافی]
 categories: [فیلم]
 ---

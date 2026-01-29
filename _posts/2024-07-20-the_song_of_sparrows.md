@@ -1,6 +1,6 @@
 ---
 title: The Song of Sparrows
-img: /assets/img/the_song_of_sparrows.jpg
+image: /assets/img/the_song_of_sparrows.jpg
 tags: [فیلم, خانواده, درام]
 categories: [فیلم]
 ---

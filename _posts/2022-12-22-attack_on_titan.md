@@ -1,6 +1,6 @@
 ---
 title: Attack on Titan
-img: /assets/img/attack_on_titan.jpg
+image: /assets/img/attack_on_titan.jpg
 tags: [سریال, انیمیشن, اکشن]
 categories: [سریال]
 ---

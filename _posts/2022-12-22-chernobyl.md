@@ -1,6 +1,6 @@
 ---
 title: Chernobyl
-img: /assets/img/chernobyl.jpg
+image: /assets/img/chernobyl.jpg
 tags: [سریال, درام, تاریخی]
 categories: [سریال]
 ---

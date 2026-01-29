@@ -1,6 +1,6 @@
 ---
 title: The Theory Of Everything
-img: /assets/img/the_theory_of_everything.jpg
+image: /assets/img/the_theory_of_everything.jpg
 tags: [فیلم, بیوگرافی, درام]
 categories: [فیلم]
 ---

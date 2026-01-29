@@ -1,6 +1,6 @@
 ---
 title: اسرار دریاچه
-img: /assets/img/mysteries_of_the_lake.jpg
+image: /assets/img/mysteries_of_the_lake.jpg
 tags: [مستند, طبیعت, هیجانی]
 categories: [مستند]
 ---

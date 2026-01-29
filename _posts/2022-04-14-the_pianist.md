@@ -1,6 +1,6 @@
 ---
 title: The Pianist
-img: /assets/img/the_pianist.jpg
+image: /assets/img/the_pianist.jpg
 categories: [فیلم]
 tags: [فیلم, درام, زندگینامه, موزیکال]
 ---

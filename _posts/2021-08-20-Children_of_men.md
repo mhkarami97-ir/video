@@ -1,6 +1,6 @@
 ---
 title: Children Of Men
-img: /assets/img/children_of_men.jpg
+image: /assets/img/children_of_men.jpg
 categories: [فیلم]
 tags: [فیلم, علمی‌و‌تخیلی, ماجراجویانه]
 ---

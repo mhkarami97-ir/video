@@ -1,6 +1,6 @@
 ---
 title: The World At War
-img: /assets/img/the_world_at_war.jpg
+image: /assets/img/the_world_at_war.jpg
 tags: [سریال, تاریخی]
 categories: [سریال]
 ---

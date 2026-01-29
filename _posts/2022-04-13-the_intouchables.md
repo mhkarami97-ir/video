@@ -1,6 +1,6 @@
 ---
 title: The Intouchables
-img: /assets/img/the_intouchables.jpg
+image: /assets/img/the_intouchables.jpg
 categories: [فیلم]
 tags: [فیلم, درام, ورزشی]
 ---

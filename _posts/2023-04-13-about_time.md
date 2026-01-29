@@ -1,6 +1,6 @@
 ---
 title: About Time
-img: /assets/img/about_time.jpg
+image: /assets/img/about_time.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]
 ---

@@ -1,6 +1,6 @@
 ---
 title: MoneyBall
-img: /assets/img/moneyball.jpg
+image: /assets/img/moneyball.jpg
 tags: [فیلم, درام, زندگینامه]
 categories: [فیلم]
 ---

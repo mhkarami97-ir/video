@@ -1,6 +1,6 @@
 ---
 title: Saving Private Ryan
-img: /assets/img/saving_private_ryan.jpg
+image: /assets/img/saving_private_ryan.jpg
 categories: [فیلم]
 tags: [فیلم, درام, جنگ]
 ---

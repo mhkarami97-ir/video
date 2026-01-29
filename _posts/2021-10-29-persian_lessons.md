@@ -1,6 +1,6 @@
 ---
 title: Persian Lessons
-img: /assets/img/persian_lessons.jpg
+image: /assets/img/persian_lessons.jpg
 categories: [فیلم]
 tags: [فیلم, درام, جنگ]
 ---

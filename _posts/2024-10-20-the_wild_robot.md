@@ -1,6 +1,6 @@
 ---
 title: The Wild Robot
-img: /assets/img/the_wild_robot.jpg
+image: /assets/img/the_wild_robot.jpg
 tags: [انیمیشن, علمی‌و‌تخیلی]
 categories: [انیمیشن]
 ---

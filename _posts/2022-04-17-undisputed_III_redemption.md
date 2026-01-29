@@ -1,6 +1,6 @@
 ---
 title: Undisputed III Redemption
-img: /assets/img/undisputed_III_redemption.jpg
+image: /assets/img/undisputed_III_redemption.jpg
 tags: [فیلم, درام, اکشن, جنایی]
 categories: [فیلم]
 ---

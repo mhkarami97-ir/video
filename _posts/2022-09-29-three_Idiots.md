@@ -1,6 +1,6 @@
 ---
 title: 3 Idiots
-img: /assets/img/idiots.jpg
+image: /assets/img/idiots.jpg
 tags: [فیلم, درام, کمدی]
 categories: [فیلم]
 ---

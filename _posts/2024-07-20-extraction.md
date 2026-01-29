@@ -1,6 +1,6 @@
 ---
 title: Extraction
-img: /assets/img/extraction.jpg
+image: /assets/img/extraction.jpg
 tags: [فیلم, خانواده, درام]
 categories: [فیلم]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Richard Hammonds Big
-img: /assets/img/richard_hammonds_big.jpg
+image: /assets/img/richard_hammonds_big.jpg
 tags: [مستند, علمی]
 categories: [مستند]
 ---

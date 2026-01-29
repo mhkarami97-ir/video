@@ -1,6 +1,6 @@
 ---
 title: The Grand Tour 
-img: /assets/img/the_grand_tour.jpg
+image: /assets/img/the_grand_tour.jpg
 tags: [مستند, ورزشی, کمدی]
 categories: [مستند]
 ---

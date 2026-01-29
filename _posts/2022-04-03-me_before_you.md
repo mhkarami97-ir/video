@@ -1,6 +1,6 @@
 ---
 title: Me Before You
-img: /assets/img/me_before_you.jpg
+image: /assets/img/me_before_you.jpg
 categories: [فیلم]
 tags: [فیلم, درام, رمانتیک]
 ---

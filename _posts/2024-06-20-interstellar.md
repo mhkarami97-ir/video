@@ -1,6 +1,6 @@
 ---
 title: Interstellar
-img: /assets/img/interstellar.jpg
+image: /assets/img/interstellar.jpg
 tags: [فیلم, ماجراجویانه, درام]
 categories: [فیلم]
 ---

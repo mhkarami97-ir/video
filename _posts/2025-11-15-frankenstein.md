@@ -1,6 +1,6 @@
 ---
 title: Frankenstein
-img: /assets/img/frankenstein.jpg
+image: /assets/img/frankenstein.jpg
 tags: [فیلم, ترسناک, درام]
 categories: [فیلم]
 ---

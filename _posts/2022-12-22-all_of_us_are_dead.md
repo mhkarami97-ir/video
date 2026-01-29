@@ -1,6 +1,6 @@
 ---
 title: All of Us Are Dead
-img: /assets/img/all_of_us_are_dead.jpg
+image: /assets/img/all_of_us_are_dead.jpg
 tags: [سریال, درام, اکشن]
 categories: [سریال]
 ---

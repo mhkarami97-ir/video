@@ -1,6 +1,6 @@
 ---
 title: Deportees
-img: /assets/img/deportees.jpg
+image: /assets/img/deportees.jpg
 tags: [فیلم, اکشن, کمدی]
 categories: [فیلم]
 ---

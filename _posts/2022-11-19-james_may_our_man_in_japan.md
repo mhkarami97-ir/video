@@ -1,6 +1,6 @@
 ---
 title: James May Our Man in Japan
-img: /assets/img/james_may_our_man_in_japan.jpg
+image: /assets/img/james_may_our_man_in_japan.jpg
 tags: [مستند, کمدی, ماجراجویی]
 categories: [مستند]
 ---

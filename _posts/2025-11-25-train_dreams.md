@@ -1,6 +1,6 @@
 ---
 title: Train Dreams
-img: /assets/img/train_dreams.jpg
+image: /assets/img/train_dreams.jpg
 tags: [فیلم, درام]
 categories: [فیلم]
 ---

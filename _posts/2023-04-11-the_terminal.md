@@ -1,6 +1,6 @@
 ---
 title: The Terminal
-img: /assets/img/the_terminal.jpg
+image: /assets/img/the_terminal.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]
 ---

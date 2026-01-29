@@ -1,6 +1,6 @@
 ---
 title: The Lobster
-img: /assets/img/the_lobster.jpg
+image: /assets/img/the_lobster.jpg
 tags: [فیلم, درام, رمانتیک]
 categories: [فیلم]
 ---

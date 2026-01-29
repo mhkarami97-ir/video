@@ -1,6 +1,6 @@
 ---
 title: تئاتر تهران استانبول 
-img: /assets/img/tehran_istanbul.jpg
+image: /assets/img/tehran_istanbul.jpg
 tags: [تئاتر, طنز, کمدی]
 categories: [تئاتر]
 ---

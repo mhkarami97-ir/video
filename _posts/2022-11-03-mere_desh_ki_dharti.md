@@ -1,6 +1,6 @@
 ---
 title: Mere Desh Ki Dharti
-img: /assets/img/mere_desh_ki_dharti.jpg
+image: /assets/img/mere_desh_ki_dharti.jpg
 tags: [فیلم, درام, کمدی]
 categories: [فیلم]
 ---

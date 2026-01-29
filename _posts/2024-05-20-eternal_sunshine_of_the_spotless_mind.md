@@ -1,6 +1,6 @@
 ---
 title: Eternal Sunshine of the Spotless Mind
-img: /assets/img/eternal_sunshine_of_the_spotless_mind.jpg
+image: /assets/img/eternal_sunshine_of_the_spotless_mind.jpg
 tags: [فیلم, رمانتیک, درام]
 categories: [فیلم]
 ---

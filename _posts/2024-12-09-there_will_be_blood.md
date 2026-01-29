@@ -1,6 +1,6 @@
 ---
 title: The Silence of the Lambs
-img: /assets/img/there_will_be_blood.jpg
+image: /assets/img/there_will_be_blood.jpg
 tags: [فیلم, درام]
 categories: [فیلم]
 ---

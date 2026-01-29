@@ -1,6 +1,6 @@
 ---
 title: The Blind Side
-img: /assets/img/the_blind_side.jpg
+image: /assets/img/the_blind_side.jpg
 categories: [فیلم]
 tags: [فیلم, درام, زندگینامه, ورزشی]
 ---

@@ -1,6 +1,6 @@
 ---
 title: City Of God
-img: /assets/img/city_of_god.jpg
+image: /assets/img/city_of_god.jpg
 categories: [فیلم]
 tags: [فیلم, درام, جنایی]
 ---

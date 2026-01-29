@@ -1,6 +1,6 @@
 ---
 title: Miracle in Cell No. 7
-img: /assets/img/miracle_in_cell_no_7.jpg
+image: /assets/img/miracle_in_cell_no_7.jpg
 tags: [فیلم, درام]
 categories: [فیلم]
 ---

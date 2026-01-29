@@ -1,6 +1,6 @@
 ---
 title: Land of Mine
-img: /assets/img/land_of_mine.jpg
+image: /assets/img/land_of_mine.jpg
 tags: [فیلم, درام, تاریخی]
 categories: [فیلم]
 ---

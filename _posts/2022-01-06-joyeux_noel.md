@@ -1,6 +1,6 @@
 ---
 title: Joyeux Noel
-img: /assets/img/joyeux_noel.jpg
+image: /assets/img/joyeux_noel.jpg
 categories: [فیلم]
 tags: [فیلم, درام, تاریخی]
 ---

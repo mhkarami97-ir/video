@@ -1,6 +1,6 @@
 ---
 title: My Favourite Cake
-img: /assets/img/my_favourite_cake.jpg
+image: /assets/img/my_favourite_cake.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]
 ---

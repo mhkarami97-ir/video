@@ -1,6 +1,6 @@
 ---
 title: Like Stars on Earth
-img: /assets/img/like_stars_on_earth.jpg
+image: /assets/img/like_stars_on_earth.jpg
 tags: [فیلم, خانواده, درام]
 categories: [فیلم]
 ---

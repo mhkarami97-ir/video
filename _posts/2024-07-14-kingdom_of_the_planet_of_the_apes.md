@@ -1,6 +1,6 @@
 ---
 title: kingdom of the Planet of the Apes
-img: /assets/img/kingdom_of_the_planet_of_the_apes.jpg
+image: /assets/img/kingdom_of_the_planet_of_the_apes.jpg
 tags: [فیلم, اکشن, هیجانی]
 categories: [فیلم]
 ---

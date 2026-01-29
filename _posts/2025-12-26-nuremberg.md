@@ -1,6 +1,6 @@
 ---
 title: Nuremberg
-img: /assets/img/nuremberg.jpg
+image: /assets/img/nuremberg.jpg
 tags: [فیلم, درام, بیوگرافی, تاریخی]
 categories: [فیلم]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Million Dollar Baby
-img: /assets/img/million_dollar_baby.jpg
+image: /assets/img/million_dollar_baby.jpg
 categories: [فیلم]
 tags: [فیلم, درام, ورزشی]
 ---

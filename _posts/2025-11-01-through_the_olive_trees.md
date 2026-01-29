@@ -1,6 +1,6 @@
 ---
 title: Through the Olive Trees
-img: /assets/img/through_the_olive_trees.jpg
+image: /assets/img/through_the_olive_trees.jpg
 tags: [فیلم, درام]
 categories: [فیلم]
 ---

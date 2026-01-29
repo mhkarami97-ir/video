@@ -1,6 +1,6 @@
 ---
 title: The Pursuit Of Happyness
-img: /assets/img/the_pursuit_of_happyness.jpg
+image: /assets/img/the_pursuit_of_happyness.jpg
 tags: [فیلم, درام, زندگینامه]
 categories: [فیلم]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wednesday
-img: /assets/img/wednesday.jpg
+image: /assets/img/wednesday.jpg
 tags: [سریال, جنایی, کمدی]
 categories: [سریال]
 ---

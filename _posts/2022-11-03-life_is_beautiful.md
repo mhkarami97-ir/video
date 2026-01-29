@@ -1,6 +1,6 @@
 ---
 title: Life Is Beautiful
-img: /assets/img/life_is_beautiful.jpg
+image: /assets/img/life_is_beautiful.jpg
 tags: [فیلم, درام, رمانتیک, جنایی]
 categories: [فیلم]
 ---

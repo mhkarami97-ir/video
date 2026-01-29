@@ -1,6 +1,6 @@
 ---
 title: The Shawshank Redemption
-img: /assets/img/the_shawshank_redemption.jpg
+image: /assets/img/the_shawshank_redemption.jpg
 categories: [فیلم]
 tags: [فیلم, درام]
 ---

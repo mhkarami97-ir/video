@@ -1,6 +1,6 @@
 ---
 title: The Big Short
-img: /assets/img/the_big_short.jpg
+image: /assets/img/the_big_short.jpg
 tags: [فیلم, کمدی, بیوگرافی, درام]
 categories: [فیلم]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fast And Furious
-img: /assets/img/fast_and_furious.jpg
+image: /assets/img/fast_and_furious.jpg
 tags: [فیلم, اکشن, جنایی, دلهره‌آور]
 categories: [فیلم]
 ---

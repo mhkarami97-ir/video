@@ -1,6 +1,6 @@
 ---
 title: Modern Times
-img: /assets/img/modern_times.jpg
+image: /assets/img/modern_times.jpg
 tags: [فیلم, کمدی, رمانتیک]
 categories: [فیلم]
 ---

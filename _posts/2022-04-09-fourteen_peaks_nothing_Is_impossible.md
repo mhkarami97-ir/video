@@ -1,6 +1,6 @@
 ---
 title: 14 Peaks Nothing Is Impossible
-img: /assets/img/fourteen_peaks_nothing_is_impossible.jpg
+image: /assets/img/fourteen_peaks_nothing_is_impossible.jpg
 categories: [مستند]
 tags: [مستند, ماجراجویانه, ورزشی]
 ---

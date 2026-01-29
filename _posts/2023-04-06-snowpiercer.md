@@ -1,6 +1,6 @@
 ---
 title: SnowPiercer
-img: /assets/img/Snowpiercer.jpg
+image: /assets/img/Snowpiercer.jpg
 tags: [فیلم, اکشن, درام]
 categories: [فیلم]
 ---

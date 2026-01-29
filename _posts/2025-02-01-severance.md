@@ -1,6 +1,6 @@
 ---
 title: Severance
-img: /assets/img/severance.jpg
+image: /assets/img/severance.jpg
 tags: [فیلم, درام, رازآلود]
 categories: [فیلم]
 ---

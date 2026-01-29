@@ -1,6 +1,6 @@
 ---
 title: A Wild Year on Earth
-img: /assets/img/a_wild_year_on_earth.jpg
+image: /assets/img/a_wild_year_on_earth.jpg
 tags: [مستند, حیاط‌‌‌وحش]
 categories: [مستند]
 ---

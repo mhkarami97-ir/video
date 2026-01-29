@@ -1,6 +1,6 @@
 ---
 title: A Man Called Otto
-img: /assets/img/a_man_called_otto.jpg
+image: /assets/img/a_man_called_otto.jpg
 tags: [فیلم, کمدی, درام]
 categories: [فیلم]
 ---

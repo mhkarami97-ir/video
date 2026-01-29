@@ -1,6 +1,6 @@
 ---
 title: The Fault in Our Stars
-img: /assets/img/the_fault_in_our_stars.jpg
+image: /assets/img/the_fault_in_our_stars.jpg
 tags: [فیلم, درام, رمانتیک]
 categories: [فیلم]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Beautiful Mind
-img: /assets/img/beautiful_mind.jpg
+image: /assets/img/beautiful_mind.jpg
 tags: [فیلم, درام, زندگینامه]
 categories: [فیلم]
 ---

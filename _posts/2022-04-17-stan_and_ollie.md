@@ -1,6 +1,6 @@
 ---
 title: Stan And Ollie
-img: /assets/img/stan_and_ollie.jpg
+image: /assets/img/stan_and_ollie.jpg
 tags: [فیلم, درام, کمدی, زندگینامه]
 categories: [فیلم]
 ---

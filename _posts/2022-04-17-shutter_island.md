@@ -1,6 +1,6 @@
 ---
 title: Shutter Island
-img: /assets/img/shutter_island.jpg
+image: /assets/img/shutter_island.jpg
 tags: [فیلم, رازآلود, دلهره‌آور]
 categories: [فیلم]
 ---

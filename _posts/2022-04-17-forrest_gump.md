@@ -1,6 +1,6 @@
 ---
 title: Forrest Gump
-img: /assets/img/forrest_gump.jpg
+image: /assets/img/forrest_gump.jpg
 tags: [فیلم, درام, رمانتیک]
 categories: [فیلم]
 ---

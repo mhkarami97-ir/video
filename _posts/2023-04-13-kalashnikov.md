@@ -1,6 +1,6 @@
 ---
 title: Kalashnikov
-img: /assets/img/kalashnikov.jpg
+image: /assets/img/kalashnikov.jpg
 tags: [فیلم, بیوگرافی, جنگ]
 categories: [فیلم]
 ---

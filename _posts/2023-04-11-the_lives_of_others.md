@@ -1,6 +1,6 @@
 ---
 title: The Lives of Others
-img: /assets/img/the_lives_of_others.jpg
+image: /assets/img/the_lives_of_others.jpg
 tags: [فیلم, رازآلود, درام]
 categories: [فیلم]
 ---

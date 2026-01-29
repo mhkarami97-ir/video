@@ -1,6 +1,6 @@
 ---
 title: The Silence of the Lambs
-img: /assets/img/silence_of_the_lambs.jpg
+image: /assets/img/silence_of_the_lambs.jpg
 tags: [فیلم, جنایی, درام]
 categories: [فیلم]
 ---

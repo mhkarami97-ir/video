@@ -1,6 +1,6 @@
 ---
 title: Secret in Their Eyes
-img: /assets/img/secret_in_their_eyes.jpg
+image: /assets/img/secret_in_their_eyes.jpg
 tags: [فیلم, رازآلود, درام]
 categories: [فیلم]
 ---

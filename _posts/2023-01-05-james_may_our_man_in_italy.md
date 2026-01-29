@@ -1,6 +1,6 @@
 ---
 title: James May Our Man in Italy
-img: /assets/img/james_may_our_man_in_italy.jpg
+image: /assets/img/james_may_our_man_in_italy.jpg
 tags: [مستند, ماجراجویی]
 categories: [مستند]
 ---

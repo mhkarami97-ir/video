@@ -1,6 +1,6 @@
 ---
 title: Turning Red
-img: /assets/img/turning_red.jpg
+image: /assets/img/turning_red.jpg
 categories: [انیمیشن]
 tags: [انیمیشن, کمدی, ماجراجویانه]
 ---

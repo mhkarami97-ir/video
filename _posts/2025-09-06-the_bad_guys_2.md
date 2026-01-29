@@ -1,6 +1,6 @@
 ---
 title: The Bad Guys 2
-img: /assets/img/the_bad_guys_2.jpg
+image: /assets/img/the_bad_guys_2.jpg
 tags: [انیمیشن, اکشن, هیجانی]
 categories: [انیمیشن]
 ---

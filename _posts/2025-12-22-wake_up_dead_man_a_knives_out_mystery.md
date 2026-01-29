@@ -1,6 +1,6 @@
 ---
 title: Wake Up Dead Man A Knives Out Mystery
-img: /assets/img/wake_up_dead_man_a_knives_out_mystery.jpg
+image: /assets/img/wake_up_dead_man_a_knives_out_mystery.jpg
 tags: [فیلم, درام, رازآلود, کمدی]
 categories: [فیلم]
 ---
