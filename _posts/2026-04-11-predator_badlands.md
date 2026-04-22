@@ -27,4 +27,4 @@ categories: [فیلم]
 
 ## اطلاعات
 [imdb](https://www.imdb.com/title/tt31227572/)  
-[RottenTomatoes]()
+[RottenTomatoes](https://www.rottentomatoes.com/m/predator_badlands)

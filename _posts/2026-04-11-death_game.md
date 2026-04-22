@@ -27,4 +27,3 @@ categories: [سریال]
 
 ## اطلاعات
 [imdb](https://www.imdb.com/title/tt26225038/)  
-[RottenTomatoes]()

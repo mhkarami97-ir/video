@@ -1,5 +1,5 @@
 ---
-title: چشم و گوش بسته
+title: Blind and deaf
 image: /assets/img/cheshm_gosh_baste.jpg
 tags: [فیلم, اکشن, کمدی]
 categories: [فیلم]
@@ -24,7 +24,3 @@ categories: [فیلم]
  - `به دیگران توصیه می‌کنم` : بله
  - `دوباره می‌بینم` : بله
  - `کشور` : Iran
-
-## اطلاعات
-[imdb]()  
-[RottenTomatoes]()

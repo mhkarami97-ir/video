@@ -27,4 +27,4 @@ categories: [انیمیشن]
 
 ## اطلاعات
 [imdb](https://www.imdb.com/title/tt0133240/)  
-[RottenTomatoes]()
+[RottenTomatoes](https://www.rottentomatoes.com/m/treasure_planet)

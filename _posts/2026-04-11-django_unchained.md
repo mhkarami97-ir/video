@@ -27,4 +27,4 @@ categories: [فیلم]
 
 ## اطلاعات
 [imdb](https://www.imdb.com/title/tt1853728/)  
-[RottenTomatoes]()
+[RottenTomatoes](https://www.rottentomatoes.com/m/django_unchained_2012)

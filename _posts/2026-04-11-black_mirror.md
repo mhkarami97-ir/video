@@ -27,4 +27,4 @@ categories: [سریال]
 
 ## اطلاعات
 [imdb](https://www.imdb.com/title/tt2085059/)  
-[RottenTomatoes]()
+[RottenTomatoes](https://www.rottentomatoes.com/tv/black_mirror)

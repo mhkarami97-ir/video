@@ -27,4 +27,4 @@ categories: [فیلم]
 
 ## اطلاعات
 [imdb](https://www.imdb.com/title/tt4276820/)  
-[RottenTomatoes]()
+[RottenTomatoes](https://www.rottentomatoes.com/m/the_founder)
