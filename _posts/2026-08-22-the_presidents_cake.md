@@ -1,6 +1,6 @@
 ---
 title: کیک رئیس جمهور
-image: /assets/img/willow_and_wind.jpg
+image: /assets/img/the_presidents_cake.jpg
 tags: [فیلم, عربی, درام]
 categories: [فیلم]
 ---
