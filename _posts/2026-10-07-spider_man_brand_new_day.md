@@ -1,5 +1,5 @@
 ---
-title: Spider-Man: Brand New Day
+title: Spider-Man Brand New Day
 image: /assets/img/spider_man_brand_new_day.jpg
 tags: [فیلم, ابرقهرمانی, اکشن]
 categories: [فیلم]
