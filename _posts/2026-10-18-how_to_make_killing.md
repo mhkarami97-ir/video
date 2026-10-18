@@ -1,6 +1,6 @@
 ---
 title: How to Make a Killing
-image: /assets/img/how_to_make_a_killing.jpg
+image: /assets/img/how_to_make_killing.jpg
 tags: [فیلم, کمدی سیاه, تریلر, جنایی]
 categories: [فیلم]
 ---
